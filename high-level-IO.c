@@ -1,3 +1,6 @@
+// simple high leve I/O Data stream with file descriptor 
+// and how to read it into Buffer
+// compile: gcc high-level-IO.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
