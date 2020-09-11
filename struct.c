@@ -1,5 +1,5 @@
-// STRUCT deklarierung und verwendung mit pointern ...
-// Compile: gcc struct.c
+// STRUCT deklarierung und verwendung mit pointern ....
+// Compile: gcc struct.c 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
