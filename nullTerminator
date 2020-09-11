@@ -1,0 +1,5 @@
+char decryptedtext[]="blabla text123";
+
+int decryptedtext_len=strlen(decryptedtext);
+
+decryptedtext[decryptedtext_len] = '\0'; // AM ENDE null hinzufügen
