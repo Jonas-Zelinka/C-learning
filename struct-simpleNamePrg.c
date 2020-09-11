@@ -1,5 +1,5 @@
 // Einfaches Strukturen Program gemischt mit
-// Low Level File Handling 
+// Low Level File Handling ...
 // compile: gcc struct-simpleNamePrg.c
 #include <stdio.h>
 #include <stdlib.h>
